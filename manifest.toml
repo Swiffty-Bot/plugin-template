@@ -1,0 +1,4 @@
+[plugin]
+name = "hello-world"
+version = "0.1.0"
+description = "Prints a hello world message to the console when the bot goes online."
